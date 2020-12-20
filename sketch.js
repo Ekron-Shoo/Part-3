@@ -140,7 +140,7 @@ function draw(){
     button4.hide();
     button1.hide();
 
-    hyper = createA("https://ekron-shoo.github.io/FPS/fps/", "Continue","_self");
+    hyper = createA("https://ekron-shoo.github.io/Part-4/", "Continue","_self");
     hyper.position(displayWidth-155,displayHeight-108);
 
   }
